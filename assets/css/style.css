@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/* ======= feature bike color change ========== */
+.saturate {
+     filter: saturate(3); 
+}
+
+.grayscale {
+     filter: grayscale(100%); 
+}
+
+.contrast { 
+    filter: contrast(160%); 
+}
